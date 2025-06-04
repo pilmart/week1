@@ -31,10 +31,5 @@ func main () {
 	sb.WriteString(reflect.TypeOf(v4).String())
 
 	pl(sb.String())
-	
-	
-	
-	
-
 
 }
